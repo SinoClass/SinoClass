@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SinoClass
+- 👋 Hi, I’m Sino
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Computer Sciens
 - 📫 How to reach me bsino999@gmai.com
